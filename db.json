@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Ridham Savaliya",
+      "uname": "rid",
+      "email": "ridham@savaiya.com",
+      "phno": "7894561230",
+      "wname": "rks.com",
+      "id": 12
+    },
+    {
+      "name": "Ridham Savaliya",
+      "uname": "RKS",
+      "email": "rks@gmil.com",
+      "phno": "78945612310",
+      "wname": "rks@rid.com",
+      "id": 13
+    },
+    {
+      "name": "Jaimin",
+      "uname": "jemo",
+      "email": "jemo@gmail.com",
+      "phno": "1234567890",
+      "wname": "jemo.com",
+      "id": 14
+    }
+  ]
+}
